@@ -36,3 +36,6 @@ n. TextField = n. row
 go to next generation with nextGeneration and start a new game with neues Spiel
 
 At the end of a game is: Das Spiel Ist zu Ende es hat keine Zelle Überlebt
+
+
+![alt text] https://1drv.ms/i/s!AvsQYbf345Ydg7VPD_Mo8qywPntZqg
