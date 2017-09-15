@@ -38,4 +38,4 @@ go to next generation with nextGeneration and start a new game with neues Spiel
 At the end of a game is: Das Spiel Ist zu Ende es hat keine Zelle Überlebt
 
 
-![alt text](https://1drv.ms/i/s!AvsQYbf345Ydg7VPD_Mo8qywPntZqg)
+![alt text](https://ewnpna-bn1305.files.1drv.com/y4mE8XWcaDYhCRaDdRNa38kUa-YNkUGtianAMSnkT_ZCIYbX7-rnPXt9mLeUUOmpQvG-AEIGVSfeHhRC1Y5UhPAxLpEmw_Iq5C6nfR5yusm8uqKSaEPjlKEKRhXx0vZCNBxtC5UywjjpaZfO7G1mRbll--WYoM0Obe80LM-C6h-jAu1fc0x3eH-ZH1xspY2ryaNeIQTW2riCCzwh9jhlA2O7Q?width=511&height=260&cropmode=none)
