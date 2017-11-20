@@ -9,7 +9,7 @@ USE:
 
 Stelle die Größe des Feldes ein.
 
-Stelle die Lebenden Felder ein Je TextField = 1 Reihe, Zahl von Spalte in das TextField reinschreiben un die Zelle wird belebt, mehrere mit , ternnen
+Stelle die Lebenden Felder ein Je TextField = 1 Reihe, Zahl von Spalte in das TextField reinschreiben un die Zelle wird belebt, mehrere mit , trennen
 
 1. TextField = 1. Reihe
 2. TextField = 2. Reihe
